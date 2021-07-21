@@ -6,5 +6,10 @@ public class car {
 		// TODO Auto-generated constructor stub
 	}
 	
+	public void start()
+	{
+		// HIS 134
+	}
+	
 
 }
